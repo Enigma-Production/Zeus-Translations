@@ -7,3 +7,7 @@
 > **3.** Translate, Commit, Pull requests
 
 > **4.** Thanks <3
+
+
+
+* Forked from [pterodactyl/panel](https://github.com/pterodactyl/panel)
